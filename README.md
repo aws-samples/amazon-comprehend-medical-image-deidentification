@@ -4,6 +4,8 @@ This repository provides Python code to use Amazon Rekognition to extract text f
 
 ![diagram](https://github.com/aws-samples/amazon-comprehend-medical-image-deidentification/raw/master/images/deidentify-medical-1.gif)
 
+![xray1](https://github.com/aws-samples/amazon-comprehend-medical-image-deidentification/raw/master/images/deidentify-medical-2.jpg) ![xray2](https://github.com/aws-samples/amazon-comprehend-medical-image-deidentification/raw/master/images/deidentify-medical-3.jpg)
+
 ## License
 
 This library is licensed under the Apache 2.0 License. 
